@@ -1,4 +1,4 @@
-# 120-Years-of-Athletics
+# 120-Years-Athletics
 
 ## Project Overview
 
